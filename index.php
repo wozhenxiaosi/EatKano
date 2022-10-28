@@ -3,8 +3,8 @@
 
 <head>
     <title data-i18n="eat-kano"></title>
-    <meta itemprop="name" content="吃掉小鹿乃" />
-    <meta itemprop="description" content="新概念音游" />
+    <meta itemprop="name" content="吃掉熊块" />
+    <meta itemprop="description" content="新概念洋熊音游" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
     <link href="./static/index.css" rel="stylesheet" type="text/css">
@@ -40,7 +40,7 @@
                 <button type="button" class="btn btn-secondary btn-lg" id="replay" onclick="replayBtn()" data-i18n="again">AGAIN-I18N</button>
                 <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.reload()" data-i18n="home">HOME-I18N</button>
                 <button type="button" class="btn btn-secondary btn-lg" onclick="goRank()" data-i18n="rank">RANK-I18N</button>
-                <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://github.com/arcxingye/EatKano'" data-i18n="repo">REPO-I18N</button>
+                <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href=''" data-i18n="repo">REPO-I18N</button>
             </div>
     </div>
     </div>
